@@ -14,6 +14,7 @@ The following is a machine learning model to detect and predict the occurrence o
 * isFraud (This is the transactions made by the fraudulent agents inside the simulation. In this specific dataset the fraudulent behavior of the agents aims to profit by taking control or customers accounts and try to empty the funds by transferring to another account and then cashing out of the system.)
 * isFlaggedFraud (The business model aims to control massive transfers from one account to another and flags illegal attempts. An illegal attempt in this dataset is an attempt to transfer more than 200.000 in a single transaction.)
 
+The dataset can be found [here](https://drive.google.com/uc?id=1BiTEaQ6MM3OXku8EhDoCa9EGhHmIuCGM&export=download).
 ## Working Methodology 
 
 ![image](https://user-images.githubusercontent.com/60508605/174591081-2591b066-c378-4231-b816-2d2a1d3fa588.png)
